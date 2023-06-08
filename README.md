@@ -1,2 +1,2 @@
 # react-sandbox
-Experimental SPA
+A practice React app.
